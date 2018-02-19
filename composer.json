@@ -25,7 +25,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Bridge\\Application": "Bridge/Application"
+            "Bridge\\Application": "Bridge/Application/"
         }
     }
 }
