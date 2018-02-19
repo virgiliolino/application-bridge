@@ -1,7 +1,7 @@
 {
     "name": "bridge/application-bridge",
     "description": "standard Application bridge to interface with frameworks",
-    "version": "0.1.0",
+    "version": "1.0.0",
     "type": "library",
     "keywords": ["openApi", "swagger", "dispatcher", "route", "builder", "slim", "framework"],
     "homepage": "https://github.com/virgiliolino/application-bridge",
