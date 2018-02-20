@@ -1,9 +1,8 @@
 <?php
 namespace Bridge\Application\Route;
 
-
-use Bridge\Application\Application\Bridge\RouteInterface;
 use Bridge\Application\Route;
+use Bridge\Application\RouteInterface;
 
 class RouteFactory implements RouteFactoryInterface {
     public static function create(

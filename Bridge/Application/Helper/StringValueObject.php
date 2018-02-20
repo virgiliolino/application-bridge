@@ -1,5 +1,5 @@
 <?php
-namespace DBridge\Application\Helper;
+namespace Bridge\Application\Helper;
 
 class StringValueObject {
     private $value;
